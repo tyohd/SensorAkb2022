@@ -32,7 +32,9 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.util.ArrayList;
-
+//Prasetyo Hade M. Winoto
+//IF-3
+//10119108
 
 public class MapsFragment extends Fragment {
 

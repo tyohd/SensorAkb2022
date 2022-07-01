@@ -1,5 +1,7 @@
 package com.example.myfood;
-
+//Prasetyo Hade M. Winoto
+//IF-3
+//10119108
 public class OnboardingItem {
 
     private int image;

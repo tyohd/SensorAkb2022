@@ -6,7 +6,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.Window;
-
+//Prasetyo Hade M. Winoto
+//IF-3
+//10119108
 public class SplashScreen extends AppCompatActivity {
 
     @Override

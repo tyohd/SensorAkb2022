@@ -36,7 +36,9 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 
 import java.util.ArrayList;
-
+//Prasetyo Hade M. Winoto
+//IF-3
+//10119108
 public class HomeActivity extends AppCompatActivity {
     BottomNavigationView bottomNavigation;
     @Override
@@ -46,7 +48,8 @@ public class HomeActivity extends AppCompatActivity {
 
         bottomNavigation = findViewById(R.id.bottomNavigationView);
 
-        //seleksi pertama kali aplikasi dijalankan
+
+        //app first run
         getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new MapsFragment()).commit();
         bottomNavigation.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
             @Override

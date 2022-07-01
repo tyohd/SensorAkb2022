@@ -10,7 +10,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
-
+//Prasetyo Hade M. Winoto
+//IF-3
+//10119108
 public class OnboardingAdapter extends RecyclerView.Adapter<OnboardingAdapter.OnboardongViewHolder>{
 
     private List<OnboardingItem> onboardingItems;
